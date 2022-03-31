@@ -120,8 +120,8 @@ async def check_site_sell():
     return(res)
 
 # Remember to use your own values from my.telegram.org!
-api_id = 11824086
-api_hash = '0041d5d7f8f20edf7bd82522cd2c8ddc'
+api_id = 'id'
+api_hash = 'hash'
 
 client = TelegramClient('name', api_id, api_hash)
 
