@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 import pandas as pd
 
-API_TOKEN = '5292481096:AAFUJER3qnV3v0moNUPUchyvA6p9eSWiKAU'
+API_TOKEN = 'api'
 
 link={
     'Coco-Pay':'https://coco-pay.com/',
